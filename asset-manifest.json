@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-git-public-page/static/js/main.2ef3bc65.chunk.js",
+    "main.js.map": "/react-git-public-page/static/js/main.2ef3bc65.chunk.js.map",
+    "runtime~main.js": "/react-git-public-page/static/js/runtime~main.49d50365.js",
+    "runtime~main.js.map": "/react-git-public-page/static/js/runtime~main.49d50365.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react-git-public-page/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react-git-public-page/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/react-git-public-page/index.html",
+    "precache-manifest.db42b8ea50c9a655f5cc20ec27fa368b.js": "/react-git-public-page/precache-manifest.db42b8ea50c9a655f5cc20ec27fa368b.js",
+    "service-worker.js": "/react-git-public-page/service-worker.js"
+  }
+}
